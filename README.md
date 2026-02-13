@@ -134,10 +134,6 @@ This project demonstrates the ability to convert raw data into actionable busine
 
 - ✅ Jupyter Notebook (EDA)
 
-- ✅ SQL query scripts
-
-- ✅ Power BI dashboard (.pbix file)
-
 - ✅ Business analysis report
 
 - ✅ Presentation (Gamma PPT)
@@ -148,13 +144,9 @@ This project demonstrates the ability to convert raw data into actionable busine
 
 - Exploratory Data Analysis
 
-- Advanced SQL Querying
-
 - Database Management
 
 - Data Visualization
-
-- Dashboard Development
 
 - Business Insight Generation
 
