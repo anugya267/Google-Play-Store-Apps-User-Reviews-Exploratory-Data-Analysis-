@@ -72,6 +72,19 @@ The dataset contains:
 
 - 📓 Jupyter Notebook
 
+```
+| Category       | Tools Used                         |
+| -------------- | ---------------------------------- |
+| Programming    | Python                             |
+| Libraries      | Pandas, NumPy, Matplotlib, Seaborn |
+| Database       | PostgreSQL / MySQL / SQL Server    |
+| Query Language | SQL                                |
+| Visualization  | Power BI                           |
+| Reporting      | Power BI Report + Gamma (PPT)      |
+| IDE            | Jupyter Notebook / VS Code         |
+
+```
+
 ## 🔍 Data Cleaning Process
 
 - Removed duplicate records
