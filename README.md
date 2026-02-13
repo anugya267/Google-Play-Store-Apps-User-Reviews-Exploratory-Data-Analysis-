@@ -196,7 +196,9 @@ jupyter notebook
   
 Data Analyst | Data Enthusiast
 
-📧 anugya.singh267@gmail.com
+📧 Email: anugya.singh267@gmail.com
+
+🔗 Open to Data Analyst & Business Intelligence roles
 
 ## ⭐ If You Like This Project
 
