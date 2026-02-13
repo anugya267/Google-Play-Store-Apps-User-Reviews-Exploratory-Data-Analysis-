@@ -18,23 +18,6 @@ The Google Play Store contains thousands of apps across multiple categories. Thi
 
 - 📊 Relationship between ratings, reviews, installs, and pricing
 
-This project demonstrates a complete end-to-end Data Analytics workflow from raw data loading to business insights presentation.
-
-The objective of this project is to:
-
-- Load and explore a real-world dataset using Python
-
-- Perform data cleaning and Exploratory Data Analysis (EDA)
-
-- Run advanced SQL queries using PostgreSQL / MySQL / SQL Server
-
-- Build an interactive Power BI dashboard
-
-- Generate a structured analytical report
-
-- Present insights using a professional PowerPoint (Gamma AI)
-
-This project highlights strong skills in data analysis, SQL querying, visualization, and business storytelling.
 
 ## 📂 Dataset Information
 
@@ -94,9 +77,7 @@ The dataset contains:
 | Category       | Tools Used                         |
 | -------------- | ---------------------------------- |
 | Programming    | Python                             |
-| Libraries      | Pandas, NumPy, Matplotlib, Seaborn |
-| Database       | PostgreSQL / MySQL / SQL Server    |
-| Query Language | SQL                                |
+| Libraries      | Pandas, NumPy, Matplotlib, Seaborn |             |
 | Visualization  | Power BI                           |
 | Reporting      | Power BI Report + Gamma (PPT)      |
 | IDE            | Jupyter Notebook / VS Code         |
@@ -132,57 +113,6 @@ The dataset contains:
 
 - Business KPI identification
 
-### 4️⃣ SQL Analysis
-
-- Dataset exported to relational database.
-
-- Performed:
-
-- SELECT queries
-
-- GROUP BY & Aggregations
-
-- JOIN operations
-
-- Subqueries
-
-- Window functions (if applicable)
-
-- KPI calculations using SQL
-
-SQL environments used:
-
-- PostgreSQL
-
-- MySQL
-
-- SQL Server
-
-## 📊 Power BI Dashboard
-
-An interactive Power BI dashboard was created to visualize key insights.
-
-### Dashboard Includes:
-
-- KPI Cards
-
-- Trend Analysis
-
-- Category-wise breakdown
-
-- Filters & slicers
-
-- Drill-down insights
-
-- Revenue / Performance analysis
-
-The dashboard enables stakeholders to:
-
-- Track performance metrics
-
-- Identify trends
-
-- Make data-driven decisions
 
 ## 📈 Key Results & Insights
 
