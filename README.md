@@ -18,6 +18,24 @@ The Google Play Store contains thousands of apps across multiple categories. Thi
 
 - 📊 Relationship between ratings, reviews, installs, and pricing
 
+This project demonstrates a complete end-to-end Data Analytics workflow from raw data loading to business insights presentation.
+
+The objective of this project is to:
+
+- Load and explore a real-world dataset using Python
+
+- Perform data cleaning and Exploratory Data Analysis (EDA)
+
+- Run advanced SQL queries using PostgreSQL / MySQL / SQL Server
+
+- Build an interactive Power BI dashboard
+
+- Generate a structured analytical report
+
+- Present insights using a professional PowerPoint (Gamma AI)
+
+This project highlights strong skills in data analysis, SQL querying, visualization, and business storytelling.
+
 ## 📂 Dataset Information
 
 The dataset contains:
